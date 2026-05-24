@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { calculateSiegeStatus } from "@/lib/siege";
+import { calculateSiegeStatus } from "../../../lib/siege";
 
 export async function POST(req: NextRequest) {
   try {

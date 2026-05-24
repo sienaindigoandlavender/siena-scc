@@ -1,4 +1,4 @@
-import type { IntegrationStatus } from "@/lib/types";
+import type { IntegrationStatus } from "./types";
 
 const endpoints = [
   { name: "APS", envKey: "APS_ENDPOINT" },

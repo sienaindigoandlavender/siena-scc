@@ -1,4 +1,4 @@
-import type { SiegeState } from "@/lib/types";
+import type { SiegeState } from "./types";
 
 const PHASE_DIGESTION = "⏳ PHASE: DIGESTION (System Busy)";
 const PHASE_HEALING = "🔥 PHASE: HEALING SWITCH ON (Autophagy Active)";

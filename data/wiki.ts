@@ -1,4 +1,4 @@
-import type { WikiEntry } from "@/lib/types";
+import type { WikiEntry } from "../lib/types";
 
 export const wikiEntries: WikiEntry[] = [
   {
